@@ -1,8 +1,6 @@
-cat > poolMetaData.json << EOF
 {
 "name": "Lucky Pool",
 "description": "Lowest fees and the greatest rewards!",
 "ticker": "LUCK2",
 "homepage": "https://lucky-pool.com/"
 }
-EOF
